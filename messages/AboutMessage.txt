@@ -1,0 +1,8 @@
+Game coded by Jacky Chen, Alireza Nickooie, and Raymond Zhao.
+Grade 12's, Class of 2014 - 2015
+
+These are three hardworking people who know the difference
+between a float and a String. That's serious business.
+
+In return for our lack of visible sweat, blood, and tears that we put into this game, 
+we request that you stop reading this screen and enjoy life.

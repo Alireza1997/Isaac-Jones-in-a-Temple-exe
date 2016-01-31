@@ -1,0 +1,9 @@
+Move the character with the W, A, S, D keys.
+Shoot in the direction wanted with the arrow keys.
+Kill mobs and go on loot boxes to get coins, and then buy items in shops!
+For shops, press E or Escape to exit, and Enter to buy.
+Press all the buttons on the current floor to go to the next!
+
+Don't die; there's neither saves nor spawn points to set.
+
+[Read the user manual for some more information...]
