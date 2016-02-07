@@ -6,6 +6,6 @@ The game is meant to be a parody/clone of the famous game "The Binding of Isaac"
 
 The project was completely coded from scratch using Java and OpenGL.
 
-This repository only includes the source code.
+This repository includes the executable file.
 
 Have Fun!
